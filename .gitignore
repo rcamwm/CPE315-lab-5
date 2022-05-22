@@ -1,0 +1,5 @@
+*.class
+*.asm
+*.output
+*.script
+.DS_Store
